@@ -1,0 +1,14 @@
+.body {
+    background-image: url("cool-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider{
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+.slider_content {
+    display: flex;
+    grid-auto-flow: row;
+}
